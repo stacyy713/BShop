@@ -21,13 +21,13 @@ Add a new book to the database of the store | Look through the website
 Delete existing book from the database of the store | Add books to the basket and buy certain amount of books
 Update information on the books | 
 
-##About the Project
+## About the Project
 
 - The website was created by using *__Node.js__*, *__JavaScript__*, *__HTML5__* and *__CSS__*.
 - Data is stored in *__MySQL__* database.
  
 
-#####For more details contact the `authors` :
+##### For more details contact the `authors` :
 
 [Anastasia Gritsenko](https://instagram.com/gritsenko_anastasia?utm_medium=copy_link)
 
