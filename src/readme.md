@@ -9,7 +9,7 @@ was created in order to meet users' demands for easy website usage and stylish i
 
 ## How to Use
 
-There are two sceneries of using the website:
+There are two sceneries of using our website:
 
 - As administrator ;
 - As user.
@@ -32,3 +32,5 @@ Functions which can be implemented in both sceneries:
 [Anastasia Gritsenko](https://instagram.com/gritsenko_anastasia?utm_medium=copy_link)
 
 [Albina Suyusanova](https://instagram.com/_albina_3107?utm_medium=copy_link)
+
+
