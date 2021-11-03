@@ -12,6 +12,7 @@
         "max-len": ["error", 150, { "ignoreUrls": true }],
         "no-tabs": "off",
         "no-unused-vars": "off",
-        "no-param-reassign": "off"
+        "no-param-reassign": "off",
+        "linebreak-style": 0
       }
 }
