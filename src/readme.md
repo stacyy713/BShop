@@ -4,7 +4,7 @@
 
 ## Description
 
-**_BShop_** is a new online store where user can choose an appropriate book from great majority and buy it. This store
+BShop is a new online store where user can choose an appropriate book from great majority and buy it. This store
 was created in order to meet users' demands for easy website usage and stylish interface.
 
 ## How to Use
