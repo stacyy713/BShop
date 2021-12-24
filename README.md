@@ -19,12 +19,14 @@ Administrator | User
 ------------- | ----
 Add a new book to the database of the store | Look through the website
 Delete existing book from the database of the store | Add books to the basket and buy certain amount of books
-Update information on the books | 
+
 
 ## About the Project
 
-- The website was created by using *__Node.js__*, *__JavaScript__*, *__HTML5__* and *__CSS__*.
+- *__Node.js__*, *_Express.js_* and Sequelize are used for backend development.
+- *__JavaScript__*, *__HTML5__*, *__React.js__*, *_React Bootstrap_*, *_Axios_*, *_React-router-dom_* and *_MobX_* are used for frontend development.
 - Data is stored in *__MySQL__* database.
+- *_JWT_* token is used for realization of users' authorization.
  
 
 ##### For more details contact the `authors` :
