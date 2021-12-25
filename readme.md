@@ -16,16 +16,18 @@ There are two sceneries of using our website:
 
 Functions which can be implemented in both sceneries:
 
-| Administrator                                       | User                                                    |
-| --------------------------------------------------- | ------------------------------------------------------- |
-| Add a new book to the database of the store         | Look through the website                                |
-| Delete existing book from the database of the store | Add books to the basket and buy certain amount of books |
-| Update information on the books                     |
+Administrator | User
+------------- | ----
+Add a new book to the database of the store | Look through the website
+Delete existing book from the database of the store | Add books to the basket and buy certain amount of books
+
 
 ## About the Project
 
-- The website was created by using _**Node.js**_, _**JavaScript**_, _**HTML5**_ and _**CSS**_.
-- Data is stored in _**MySQL**_ database.
+- *__Node.js__*, *__Express.js__* and *__Sequelize__* are used for backend development.
+- *__JavaScript__*, *__HTML5__*, *__React.js__*, *__React Bootstrap__*, *__Axios__*, *__React-router-dom__* and *__MobX__* are used for frontend development.
+- Data is stored in *__MySQL__* database.
+- *__JWT__* token is used for realization of users' authorization.
 
 ##### For more details contact the `authors` :
 
