@@ -19,7 +19,7 @@ Administrator | User
 ------------- | ----
 Add a new book to the database of the store | Look through the website
 Delete existing book from the database of the store | Add books to the basket and buy certain amount of books
-Добавить новую  электронную книгу  в базу магазина
+Add a new electronic book to the database of the store
 
 ## About the Project
 
